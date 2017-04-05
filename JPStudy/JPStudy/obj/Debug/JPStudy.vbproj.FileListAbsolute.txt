@@ -1,0 +1,51 @@
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\bin\Debug\JPStudy.exe
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\bin\Debug\JPStudy.pdb
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\bin\Debug\JPStudy.xml
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.vbprojResolveAssemblyReference.cache
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.Resources.resources
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.vbproj.GenerateResource.Cache
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.exe
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.xml
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.pdb
+C:\Users\hfang\AppData\Local\Temporary Projects\JPStudy\obj\Debug\JPStudy.frm_Main.resources
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.exe
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.xml
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.pdb
+F:\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.exe
+F:\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.pdb
+F:\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.xml
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.vbprojResolveAssemblyReference.cache
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_Main.resources
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.Resources.resources
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.vbproj.GenerateResource.Cache
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_Settings.resources
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_AddDict.resources
+F:\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_EditDict.resources
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.exe
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.xml
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.pdb
+F:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.exe.config
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.vbprojResolveAssemblyReference.cache
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_AddDict.resources
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_EditDict.resources
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_Settings.resources
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_Main.resources
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.Resources.resources
+F:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.vbproj.GenerateResource.Cache
+F:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.exe
+F:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.pdb
+F:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.xml
+D:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.exe.config
+D:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.exe
+D:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.pdb
+D:\OneDrive\Projects\JPStudy\JPStudy\bin\Debug\JPStudy.xml
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.vbprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_AddDict.resources
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_EditDict.resources
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_Settings.resources
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.frm_Main.resources
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.Resources.resources
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.vbproj.GenerateResource.Cache
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.exe
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.xml
+D:\OneDrive\Projects\JPStudy\JPStudy\obj\Debug\JPStudy.pdb

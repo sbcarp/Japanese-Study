@@ -1,0 +1,13 @@
+F:\Projects\JPStudy\JPStudy\bin\Release\JPStudy.exe
+F:\Projects\JPStudy\JPStudy\bin\Release\JPStudy.pdb
+F:\Projects\JPStudy\JPStudy\bin\Release\JPStudy.xml
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.frm_AddDict.resources
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.frm_EditDict.resources
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.frm_Settings.resources
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.frm_Main.resources
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.Resources.resources
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.vbproj.GenerateResource.Cache
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.exe
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.xml
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.pdb
+F:\Projects\JPStudy\JPStudy\obj\Release\JPStudy.vbprojResolveAssemblyReference.cache
